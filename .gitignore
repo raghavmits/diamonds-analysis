@@ -1,8 +1,11 @@
 # Ignore the screenshots
 screenshots/*
+screenshots
 
 # Ignore the debug directory
 debug/*
+debug
 
 # ignore the data directory
 data/*
+data
